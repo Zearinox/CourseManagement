@@ -1,0 +1,12 @@
+C:\Users\alvar\source\repos\CourseManagement\CourseManagement.Core\bin\Debug\CourseManagement.Core.dll
+C:\Users\alvar\source\repos\CourseManagement\CourseManagement.Core\bin\Debug\CourseManagement.Core.pdb
+C:\Users\alvar\source\repos\CourseManagement\CourseManagement.Core\obj\Debug\CourseManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\CourseManagement\CourseManagement.Core\obj\Debug\CourseManagement.Core.dll
+C:\Users\alvar\source\repos\CourseManagement\CourseManagement.Core\obj\Debug\CourseManagement.Core.pdb
+C:\Users\alvar\source\repos\CourseManagement\CourseManagement.Core\obj\Debug\CourseManagement.Core.csproj.AssemblyReference.cache
+C:\Users\juan_\Downloads\CourseManagement\CourseManagement.Core\bin\Debug\CourseManagement.Core.dll
+C:\Users\juan_\Downloads\CourseManagement\CourseManagement.Core\bin\Debug\CourseManagement.Core.pdb
+C:\Users\juan_\Downloads\CourseManagement\CourseManagement.Core\obj\Debug\CourseManagement.Core.dll
+C:\Users\juan_\Downloads\CourseManagement\CourseManagement.Core\obj\Debug\CourseManagement.Core.pdb
+C:\Users\juan_\Downloads\CourseManagement\CourseManagement.Core\bin\Debug\CourseManagement.Core.dll.CodeAnalysisLog.xml
+C:\Users\juan_\Downloads\CourseManagement\CourseManagement.Core\bin\Debug\CourseManagement.Core.dll.lastcodeanalysissucceeded
